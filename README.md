@@ -42,7 +42,7 @@ Bienvenido al repositorio de **TalleresGR**, una página web moderna y atractiva
 ---
 
 ## 🎨 Vista previa
-En desarrollo
+![Vista Previa](assets/images/talleresgr_preview.png)
 ---
 
 ## 🚀 Objetivo
