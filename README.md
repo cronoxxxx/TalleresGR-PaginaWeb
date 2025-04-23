@@ -15,7 +15,7 @@ Welcome to the repository for **TalleresGR**, a modern and attractive website de
 
 ## 🚗 Project Description
 
-**TalleresGR** is a static website with a responsive design that aims to present the services of an automotive workshop in a clear and visual manner. The main focus is to combine a professional aesthetic with dynamic transitions that enhance the user experience.
+**TalleresGR** is a static website with a responsive design that aims to present the services of an Spanish automotive workshop in a clear and visual manner. The main focus is to combine a professional aesthetic with dynamic transitions that enhance the user experience.
 
 ---
 
