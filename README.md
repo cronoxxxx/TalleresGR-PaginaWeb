@@ -9,7 +9,7 @@
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal-4.0%2B-blueviolet)
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF7600?style=flat&logo=maildotru&logoColor=white)
 
-Welcome to the repository for **TalleresGR**, a modern and attractive website designed to represent a **professional automotive workshop**. Developed with **HTML, CSS, and JavaScript**, and enhanced with smooth animations using **ScrollReveal.js**. **EmailJS** has also been implemented for sending contact form submissions directly via email without the need for a backend.
+Welcome to the repository for **TalleresGR**, a modern and attractive website designed to represent a **professional automotive workshop** from Spain. Developed with **HTML, CSS, and JavaScript**, and enhanced with smooth animations using **ScrollReveal.js**. **EmailJS** has also been implemented for sending contact form submissions directly via email without the need for a backend.
 
 ---
 
