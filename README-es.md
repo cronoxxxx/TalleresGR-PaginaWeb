@@ -1,6 +1,6 @@
 # 🛠️ TalleresGR - Página Web de Taller Mecánico
 
-[English version](README.md)
+[English version 🇺🇸](README.md)
 
 ![Licencia Apache 2.0](https://img.shields.io/badge/Licencia-Apache%202.0-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

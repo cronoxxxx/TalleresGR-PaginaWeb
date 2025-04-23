@@ -1,6 +1,6 @@
 # 🛠️ TalleresGR - Automotive Workshop Website
 
-[Versión en español](README-es.md)
+[Versión en español 🇪🇸](README-es.md)
 
 ![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
