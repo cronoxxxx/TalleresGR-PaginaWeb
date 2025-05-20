@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/ScrollReveal-4.0%2B-blueviolet" />
   <img src="https://img.shields.io/badge/EmailJS-FF7600?style=flat&logo=maildotru&logoColor=white" />
+  <a href="https://deepwiki.com/cronoxxxx/TalleresGR-PaginaWeb"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </p>
 
 ---
